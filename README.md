@@ -1,4 +1,5 @@
 # Hello_world
+###![example event parameter](https://github.com/github/docs/actions/workflows/cmake.yml/badge.svg?event=push)
 ## To run
 ## 1.git clone https://github.com/apachaihop/Hello_world.git
 ## 2.Go to work direcory
